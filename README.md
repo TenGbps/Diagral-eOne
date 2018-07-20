@@ -1,2 +1,2 @@
-# Diagral_eOne_PHP_Client
+# Diagral eOne PHP Client
 Control your Diagral e-One Alarm with PHP
